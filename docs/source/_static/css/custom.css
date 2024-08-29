@@ -1,7 +1,6 @@
 .wy-side-nav-search {
     display: block;
-    width: 280px !important;
-    padding: .809em;
-    margin-bottom: .809em;
+    padding: 1em;
+    margin-bottom: 1em;
     background-color: #ffffff !important;
 }
