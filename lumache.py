@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Stacked CMS - Build your website your way
 """
 
 __version__ = "0.1.0"
